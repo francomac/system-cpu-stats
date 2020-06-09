@@ -1,4 +1,4 @@
-# Monitor CPU System Stats
+# Monitor CPU System Stats - An Electron Application
 
 ## Quick Start
 
